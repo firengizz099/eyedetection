@@ -1,5 +1,4 @@
-# eye detection
-Gereksinimler
+# Eye Detection
 *************
 Python 3.x
 OpenCV kütüphanesi (pip install opencv-python)
@@ -21,7 +20,7 @@ Her yüzün içinde, göz tespiti için eye_cascade kullanılır.
 Tespit edilen gözler çizimlerle işaretlenir.
 İşlenmiş resim, result_folder altında kaydedilir.
 İşlem tamamlandığında, sonuçlar görüntülenir.
-Notlar
+# Not
 Eğer resim .cr2 uzantısına sahipse, RawPy kütüphanesi ile işlenir ve OpenCV formatına dönüştürülür.
 Eğer resim .jpg veya .jpeg uzantısına sahipse, doğrudan OpenCV ile yüklenir.
 Göz ve yüz tespiti için OpenCV'nin önceden eğitilmiş XML dosyaları kullanılır.
