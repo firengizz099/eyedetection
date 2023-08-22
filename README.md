@@ -1,5 +1,5 @@
 # Eye Detection
-*************
+
 Python 3.x
 OpenCV kütüphanesi (pip install opencv-python)
 RawPy kütüphanesi (pip install rawpy)
