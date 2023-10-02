@@ -25,5 +25,5 @@ Kullanım**
 # Not
 **Eğer resim .cr2 uzantısına sahipse, RawPy kütüphanesi ile işlenir ve OpenCV formatına dönüştürülür.**
 **Eğer resim .jpg veya .jpeg uzantısına sahipse, doğrudan OpenCV ile yüklenir.**
-Göz ve yüz tespiti için OpenCV'nin önceden eğitilmiş XML dosyaları kullanılır.
+**Göz ve yüz tespiti için OpenCV'nin önceden eğitilmiş XML dosyaları kullanılır.**
 İşlenen resimlerin sonuçları, result_folder altında kaydedilir.
