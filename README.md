@@ -20,7 +20,7 @@ Kullanım**
 **Her yüzün içinde, göz tespiti için eye_cascade kullanılır.**
 **Tespit edilen gözler çizimlerle işaretlenir.**
 **İşlenmiş resim, result_folder altında kaydedilir.**
-İşlem tamamlandığında, sonuçlar görüntülenir.
+**İşlem tamamlandığında, sonuçlar görüntülenir.**
 
 # Not
 Eğer resim .cr2 uzantısına sahipse, RawPy kütüphanesi ile işlenir ve OpenCV formatına dönüştürülür.
