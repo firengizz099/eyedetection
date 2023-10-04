@@ -12,7 +12,7 @@ folder_path, işlenecek resimlerin bulunduğu dizini belirtir
 İşlenmiş resimlerin kaydedileceği result_folder oluşturulur.
 İşlenecek resim dosyaları image_files listesine eklenir.
 
-**Her resim dosyası için şu adımlar gerçekleştirilir:**
+Her resim dosyası için şu adımlar gerçekleştirilir:
 **Dosya yolu ve uzantısı alınır.**
 **-.cr2 uzantısına sahipse, RawPy ile işlenir ve OpenCV'ye dönüştürülür.**
 **-.jpg veya .jpeg uzantısına sahipse, doğrudan OpenCV ile yüklenir.**
