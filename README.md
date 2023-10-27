@@ -9,8 +9,8 @@ Kullanım**
 
 **eye_cascade ve face_cascade nesneleri, göz ve yüz tespiti için OpenCV'nin önceden eğitilmiş XML dosyalarını kullanır.**
 **folder_path, işlenecek resimlerin bulunduğu dizini belirtir**
-**İşlenmiş resimlerin kaydedileceği result_folder oluşturulur.**
-**İşlenecek resim dosyaları image_files listesine eklenir.**
+İşlenmiş resimlerin kaydedileceği result_folder oluşturulur.
+İşlenecek resim dosyaları image_files listesine eklenir.
 
 Her resim dosyası için şu adımlar gerçekleştirilir:
 Dosya yolu ve uzantısı alınır.
