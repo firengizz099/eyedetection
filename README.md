@@ -2,8 +2,8 @@
 
 ![App Screenshot](https://github.com/firengizz099/eyedetection/blob/main/1_tJPP3eRByPdZSNsDftreMw.jpg?raw=true)
 
-**Python 3.x
-**OpenCV kütüphanesi (pip install opencv-python)**
+Python 3.x
+OpenCV kütüphanesi (pip install opencv-python)
 **RawPy kütüphanesi (pip install rawpy)
 Kullanım**
 
