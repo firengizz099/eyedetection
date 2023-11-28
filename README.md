@@ -5,7 +5,7 @@
 Python 3.x
 **OpenCV kütüphanesi (pip install opencv-python)**
 **RawPy kütüphanesi (pip install rawpy)**
-Kullanım
+**Kullanım**
 
 eye_cascade ve face_cascade nesneleri, göz ve yüz tespiti için OpenCV'nin önceden eğitilmiş XML dosyalarını kullanır.
 folder_path, işlenecek resimlerin bulunduğu dizini belirtir
