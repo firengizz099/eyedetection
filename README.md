@@ -14,7 +14,7 @@ folder_path, işlenecek resimlerin bulunduğu dizini belirtir
 
 Her resim dosyası için şu adımlar gerçekleştirilir:
 Dosya yolu ve uzantısı alınır.
-**-.cr2 uzantısına sahipse, RawPy ile işlenir ve OpenCV'ye dönüştürülür.**
+-.cr2 uzantısına sahipse, RawPy ile işlenir ve OpenCV'ye dönüştürülür.
 **-.jpg veya .jpeg uzantısına sahipse, doğrudan OpenCV ile yüklenir.**
 **Yüz tespiti için face_cascade kullanılır ve yüzler belirlenir.**
 Her yüzün içinde, göz tespiti için eye_cascade kullanılır.
